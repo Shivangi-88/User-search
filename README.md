@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # User-search
 # 🔎 User Search App
 
