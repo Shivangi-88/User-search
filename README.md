@@ -43,5 +43,5 @@ The app uses a JSON dataset as source and displays results in a responsive card 
    ```bash
    git clone https://github.com/your-username/user-search-app.git
    cd user-search-app
-npm install
-npm run dev
+### npm install
+### npm run dev
